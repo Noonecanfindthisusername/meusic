@@ -2,12 +2,13 @@
     "name": "Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://te.legra.ph/file/bb21140e79d0b8dfd8e15.jpg",
+    "repository": "https://github.com/KartikRajOfficials/meusic",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "Yukki",
-    "YukkiMusicBot",
+    "kingbot",
+    "Kingbotmusicbot",
     "telegram-bot",
     "pyrogram"
     ],
